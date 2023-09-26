@@ -5,12 +5,13 @@
 
 - 🌱 I’m currently learning **Flutter,Dart,Node,Express,MongoDb**
 
-- 💬 Ask me about **Flutter,Firebase,Dart,Bloc,Node,Express,Mongodb**
+- 💬 Ask me about **Flutter,Firebase,Dart,Bloc,Node,Express and Mongodb**
 
 - 📫 How to reach me **abhishekbagdiya9079@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <p align="left"> <a href="https://twitter.com/abhi_bagdiya" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_bagdiya?logo=twitter&style=for-the-badge" alt="abhi_bagdiya" /></a> </p> 
 <a href="https://linkedin.com/in/abhishek-bagdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-bagdiya" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishek_bagdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_bagdiya" height="30" width="40" /></a>
 <a href="https://medium.com/@abhishekbagdiya94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhishekbagdiya94" height="30" width="40" /></a>
