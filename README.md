@@ -12,6 +12,7 @@
 - 📫 How to reach me **abhishekbagdiya9079@gmail.com**
 
 ## 🌐 Socials:
+<img align="Left" height="100" src="https://i.imgflip.com/2sqzch.png"  />
 <p align="left">
 <a href="https://twitter.com/abhi_bagdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhi_bagdiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-bagdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-bagdiya" height="30" width="40" /></a>
@@ -22,6 +23,8 @@
 <a href="https://discord.gg/7504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7504" height="30" width="40" /></a>
 </p>
 
+</br>
+</br>
 
 # 💻 Tech Stack:
 
