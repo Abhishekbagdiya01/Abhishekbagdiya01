@@ -47,4 +47,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishekbagdiya01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ![Snake animation](https://github.com/Abhishekbagdiya01/Abhishekbagdiya01/blob/output/snake.svg)
-
